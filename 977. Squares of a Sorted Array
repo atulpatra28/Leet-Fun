@@ -1,4 +1,4 @@
-//Here we use the 2 pointers method.
+//Here we use the 2 pointers method. 
 
 int* sortedSquares(int* nums, int n, int* returnSize) {
     // Allocate memory for the result array
