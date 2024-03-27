@@ -8,7 +8,9 @@ int numSubarrayProductLessThanK(int* nums, int numsSize, int k) {
             res *= nums[right];
             if (res < k) {
                 count++;
-            } else {
+            } 
+            else 
+            {
                 break; 
             }
         }
