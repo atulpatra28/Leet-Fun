@@ -13,4 +13,4 @@ char* makeGood(char* s) {
 
     stack[top + 1] = '\0'; // Null-terminate the string
     return stack;
-}
+} 
